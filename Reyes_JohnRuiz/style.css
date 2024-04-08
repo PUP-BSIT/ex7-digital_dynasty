@@ -53,7 +53,6 @@ body {
 }
 
 .section ul, .section ol {
-    list-style-type: none;
     padding: 0;
 }
 
