@@ -6,7 +6,7 @@ body {
     background-image: url('giphy2.gif');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Keeps the background image fixed while scrolling */
+    background-attachment: fixed; 
     color: #ffffff;  
 }
 
@@ -16,11 +16,11 @@ body {
     padding: 20px;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;     /* Align items to the start */
-    background-color: rgba(128, 128, 128, 0.8); /* Transparent container background */
+    align-items: flex-start;    
+    background-color: rgba(128, 128, 128, 0.8); 
 }
 
-/* Header Styles */
+
 .header {
     background-color: transparent;
     color: #ffffff;  
@@ -33,7 +33,7 @@ body {
     font-size: 2em;
 }
 
-/* Section Styles */
+
 .section {
     margin: 20px 0;
     padding: 20px;
@@ -60,7 +60,7 @@ body {
     margin-bottom: 10px;
 }
 
-/* Gallery Styles */
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
@@ -87,17 +87,17 @@ body {
     transform: scale(1.05);
 }
 
-/* Unique Styles */
+
 div:first-of-type {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 50px;
     text-align: center;
-    color: #ffffff;  /* White text color */
+    color: #ffffff;  
 }
 
 div:nth-child(3) {
-    border: 2px solid #ffffff;  /* White border */
+    border: 2px solid #ffffff;  
     padding: 20px;
 }
