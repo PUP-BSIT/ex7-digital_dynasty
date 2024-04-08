@@ -1,18 +1,8 @@
 #bg {
     position: fixed;
-    right: 0;
-    bottom: 0;
     min-width: 100%;
     min-height: 100%;
-    width: auto;
-    height: auto;
     z-index: -1;
-    background-size: cover;
-}
-
-body, ul {
-    margin: 0;
-    padding: 0;
 }
 
 body {
@@ -23,8 +13,8 @@ body {
 }
 
 div {
-    background-color: rgba(73, 71, 71, 0.3); /* White with 70% opacity */
-    border: 2px solid rgba(0, 0, 0, 0.2); /* Black border with 80% opacity */
+    padding: 10px;
+    background-color: rgba(73, 71, 71, 0.3);
     width: 450px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -41,18 +31,17 @@ ul {
     list-style-type: none;
 }
 
-a, a:hover {
+a {
     text-decoration: none;
     color:aliceblue;
-    transition: color 0.3s ease;
-    font-size: x-large;
+    font-size: 32px;
     font-weight: 900;
     font-family:'Times New Roman', Times, serif;
     word-spacing: 2.5px;
 }
 
 a:hover{
-    color: blue;
+    color:gold;
     transition: 0.3s ease;
 }
 
