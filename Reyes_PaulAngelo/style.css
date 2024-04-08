@@ -15,7 +15,7 @@ body {
     border: 2px solid black;
 }
 
-li {
+ul li {
     margin: 20px 0;
     list-style-image: url(./assets/bullet.png); 
     padding-inline-start: 2ch;
