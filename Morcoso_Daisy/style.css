@@ -1,11 +1,11 @@
-/* Styles for h1 */
+
 h1 {
     background-color: rgb(245, 129, 193);
     color: rgb(0, 0, 0);
     text-align: center;
   }
   
-  /* Styles for hobbies section */
+  
   .hobbies_and_interests {
     background-color: #e93882;
     color: #f5f5f5;
@@ -61,7 +61,7 @@ h1 {
     text-decoration: underline;
   }
   
-  /* Styles for gallery section */
+  
   #gallery {
     background-color: #000000;
     padding: 20px;
@@ -73,7 +73,7 @@ h1 {
     color: #f5f5f5;
   }
   
-  /* Styles for testimonials section */
+  
   #testimonials {
     background-color: rgb(245, 136, 176);
     padding: 20px;
