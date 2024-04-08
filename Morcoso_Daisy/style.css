@@ -1,0 +1,91 @@
+/* Styles for h1 */
+h1 {
+    background-color: rgb(245, 129, 193);
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  /* Styles for hobbies section */
+  .hobbies_and_interests {
+    background-color: #e93882;
+    color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  .hobbies_and_interests h2 {
+    margin-top: 0;
+    background-color: #000000;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .hobbies_and_interests ul {
+    padding-left: 20px;
+    text-align: left;
+  }
+  .hobbies_and_interests ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for works section */
+  .works {
+    background-color: #c566d3;
+    color: #efecec;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(8, 8, 8);
+    text-align: center;
+  }
+  .works h2 {
+    margin-top: 0;
+    background-color: #000000;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .works ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+    text-align: left;
+  }
+  .works ol li {
+    margin-bottom: 10px;
+  }
+  .works a {
+    color: #f5f5f5;
+    text-decoration: none;
+  }
+  .works a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Styles for gallery section */
+  #gallery {
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  #gallery h2 {
+    margin-top: 0;
+    color: #f5f5f5;
+  }
+  
+  /* Styles for testimonials section */
+  #testimonials {
+    background-color: rgb(245, 136, 176);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(255, 253, 253);
+    text-align: center;
+  }
+  #testimonials h2 {
+    margin-top: 0;
+    background-color: #fcfafa;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
