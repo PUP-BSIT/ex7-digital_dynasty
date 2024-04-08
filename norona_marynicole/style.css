@@ -1,0 +1,29 @@
+#Name{
+    background-image:url(https://scontent.fmnl25-1.fna.fbcdn.net/v/t1.15752-9/406198446_799589325224984_8095012559243886651_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEZ95Dnf_iufs5ewhVkpOg2VpWEkvH2eFFWlYSS8fZ4UfM2wD87DR5NgMT9dRJhMW9lUJUwkt2BOcDh_tyFhXiu&_nc_ohc=9JDcLq3G5AQAb7m1YvA&_nc_ht=scontent.fmnl25-1.fna&oh=03_AdXYAkj5Y1EuEBPqLEYXpTE_ftzPAQapEbVv3cCDlJdrOg&oe=663AC3A6);
+    font-style:italic;
+    font-family:'Arial Narrow Bold';
+}
+
+h2{
+    border: 10px solid rgb(231, 87, 109);
+    font-style:italic;
+    font-family:'Arial Narrow Bold';
+}
+
+#Works{
+    border: 10px solid rgb(231, 87, 109)
+    font-style:italic;
+    font-family:'Arial Narrow Bold';
+}
+
+#Testionials{
+    border: 10px solid rgb(231, 87, 109)
+}
+
+#Gallery{
+    border: 10px solid rgb(231, 87, 109)
+    font-style:italic;
+    font-family:'Arial Narrow Bold';
+    background-color:antiquewhite;
+}
+
