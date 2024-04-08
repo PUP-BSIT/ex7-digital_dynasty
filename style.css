@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 90vh;
 }
 
 div {
@@ -24,7 +24,7 @@ h1 {
     width: 550px;
     text-align: center;
     font-size: 120px;
-    color: aliceblue;
+    color: white;
 }
 
 ul {
@@ -33,7 +33,7 @@ ul {
 
 a {
     text-decoration: none;
-    color:aliceblue;
+    color:white;
     font-size: 32px;
     font-weight: 900;
     font-family:'Times New Roman', Times, serif;
