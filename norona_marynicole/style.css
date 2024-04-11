@@ -1,29 +1,19 @@
-#Name{
-    background-image:url(./background.jpg);
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.title, 
+#name {
+    border: 2px solid;
+    text-align: center;
     font-style:italic;
     font-family:'Arial Narrow Bold';
 }
 
-h2{
-    border: 10px solid rgb(231, 87, 109);
-    font-style:italic;
-    font-family:'Arial Narrow Bold';
-}
-
-#Works{
-    border: 10px solid rgb(231, 87, 109);
-    font-style:italic;
-    font-family:'Arial Narrow Bold';
-}
-
-#Testionials{
-    border: 10px solid rgb(231, 87, 109);
-}
-
-#Gallery{
-    border: 10px solid rgb(231, 87, 109);
-    font-style:italic;
-    font-family:'Arial Narrow Bold';
-    background-color:antiquewhite;
+img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(189, 45, 122);
 }
 
