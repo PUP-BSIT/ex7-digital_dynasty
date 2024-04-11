@@ -11,31 +11,34 @@ body {
     background-size: cover;
 }
 
-.name img 
-{
+.name img {
     display: block;
     margin: 0 auto;
     max-width: 200%;
     height: auto;
 }
 
-#me {
-    align-items: right;
-}
-
-.hobbies_and_interests, .works, #testimonials, .gallery {
+.hobbies-and-interests, .works, #testimonials, .gallery {
     background-color: white;
     margin-top: 20px;
     padding: 20px;
 }
 
-.hobbies_and_interests h2, .works h2, #testimonials h2, .gallery h2 {
+.hobbies-and-interests h2, .works h2, #testimonials h2, .gallery h2 {
     margin-bottom: 10px;
     font-size: xx-large;
 }
 
 .gallery img {
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 10px;
+    width: 180px;
+    height: 100px;
+}
+
+p {
+    white-space: pre-line;
+}
+
+#first::after, #second::after, #third::after, #fourth::after, #fifth::after {
+    content:"\a";
+    white-space: pre;
 }
