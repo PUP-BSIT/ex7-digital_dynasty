@@ -1,97 +1,95 @@
+h1 {
+  background-color: rgb(238, 134, 191);
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
 
-h1  {
-      background-color: rgb(238, 134, 191);
-      color: rgb(0, 0, 0);
-      text-align: center;
-    }
-  
-    .hobbies_and_interests {
-      background-color: #db95b2;
-      color: #040404;
-      padding: 20px;
-      margin-bottom: 20px;
-      border-radius: 5px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      text-align: center;
-    }
+.hobbies_and_interests {
+  background-color: #db95b2;
+  color: #040404;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
 
-    .hobbies_and_interests h2 {
-      margin-top: 0;
-      background-color: #000000;
-      padding: 10px;
-      border-radius: 5px;
-    }
+.hobbies_and_interests h2 {
+  margin-top: 0;
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 5px;
+}
 
-    .hobbies_and_interests ul {
-      padding-left: 20px;
-      text-align: left;
-    }
+.hobbies_and_interests ul {
+  padding-left: 20px;
+  text-align: left;
+}
 
-    .hobbies_and_interests ul li {
-      margin-bottom: 10px;
-    }
-  
-    .works {
-      background-color: #f2a9fd;
-      color: #070707;
-      padding: 20px;
-      margin-bottom: 20px;
-      border-radius: 5px;
-      box-shadow: 0 0 10px rgb(8, 8, 8);
-      text-align: center;
-    }
-    
-    .works h2 {
-      margin-top: 0;
-      background-color: #000000;
-      padding: 10px;
-      border-radius: 5px;
-    }
+.hobbies_and_interests ul li {
+  margin-bottom: 10px;
+}
 
-    .works ol {
-      list-style-type: decimal;
-      padding-left: 20px;
-      text-align: left;
-    }
+.works {
+  background-color: #f2a9fd;
+  color: #070707;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgb(8, 8, 8);
+  text-align: center;
+}
 
-    .works ol li {
-      margin-bottom: 10px;
-    }
+.works h2 {
+  margin-top: 0;
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 5px;
+}
 
-    .works a {
-      color: #f5f5f5;
-      text-decoration: none;
-    }
+.works ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+  text-align: left;
+}
 
-    .works a:hover {
-      text-decoration: underline;
-    }
-  
-    #gallery {
-      background-color: #000000;
-      padding: 20px;
-      border-radius: 5px;
-      text-align: center;
-    }
+.works ol li {
+  margin-bottom: 10px;
+}
 
-    #gallery h2 {
-      margin-top: 0;
-      color: #f5f5f5;
-    }
-  
-    #testimonials {
-      background-color: rgb(245, 136, 176);
-      padding: 20px;
-      margin-bottom: 20px;
-      border-radius: 5px;
-      box-shadow: 0 0 10px rgb(255, 253, 253);
-      text-align: center;
-    }
+.works a {
+  color: #f5f5f5;
+  text-decoration: none;
+}
 
-    #testimonials h2 {
-      margin-top: 0;
-      background-color: #fcfafa;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  
+.works a:hover {
+  text-decoration: underline;
+}
+
+#gallery {
+  background-color: #000000;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#gallery h2 {
+  margin-top: 0;
+  color: #f5f5f5;
+}
+
+#testimonials {
+  background-color: rgb(245, 136, 176);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgb(255, 253, 253);
+  text-align: center;
+}
+
+#testimonials h2 {
+  margin-top: 0;
+  background-color: #fcfafa;
+  padding: 10px;
+  border-radius: 5px;
+}
