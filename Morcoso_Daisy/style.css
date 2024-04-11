@@ -6,7 +6,7 @@ h1 {
 
 .hobbies_and_interests {
   background-color: #db95b2;
-  color: #040404;
+  color: #080808;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 5px;
@@ -16,14 +16,14 @@ h1 {
 
 .hobbies_and_interests h2 {
   margin-top: 0;
-  background-color: #000000;
+  background-color: #f8f4f4;
   padding: 10px;
   border-radius: 5px;
 }
 
 .hobbies_and_interests ul {
   padding-left: 20px;
-  text-align: left;
+  text-align: center;
 }
 
 .hobbies_and_interests ul li {
@@ -32,7 +32,7 @@ h1 {
 
 .works {
   background-color: #f2a9fd;
-  color: #070707;
+  color: #f9f7f7;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 5px;
