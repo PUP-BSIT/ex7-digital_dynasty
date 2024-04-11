@@ -77,10 +77,10 @@ body {
   
   .gallery img {
     width: 200px;
-    height: 200px; /* Added height to make all images the same size */
+    height: 200px;
     margin: 10px;
     border-radius: 8px;
-    object-fit: cover; /* To maintain the aspect ratio */
+    object-fit: cover; 
   }
   
   .gallery img:hover {
